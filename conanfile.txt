@@ -1,0 +1,7 @@
+[requires]
+ftxui/5.0.0
+spdlog/1.13.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
